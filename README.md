@@ -46,7 +46,7 @@ Track and understand your habits in real time:
 - **React Hooks (useState, useEffect)** – Manage and update app state  
 
 ### **Routing**
-- *React Router** – (Currently single-page) navigation  
+- **React Router** – (Currently single-page) navigation  
 
 ## 🧠 The Science Behind It
 
