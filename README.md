@@ -3,6 +3,15 @@
 A simple and interactive app that helps you **visualize how your daily activities affect dopamine levels** throughout the day.  
 Built around the concept of **“dopamine loading”** — low-stimulation activities build your baseline, while high-stimulation ones cause short spikes followed by dips.
 
+## 💡Project Inspiration
+I came across a YouTube video on dopamine tracking and decided to bring the idea to life through this project.
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jyLXcy5SGd8">
+    <img src="https://img.youtube.com/vi/jyLXcy5SGd8/0.jpg" alt="Watch the video" />
+  </a>
+</p>
+
+**Key Note:** This project is still under work, as I plan to add more features to this.
 
 ## ❓What It Does
 
